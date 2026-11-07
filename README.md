@@ -294,7 +294,39 @@ GitHub: \[jahnaviaretty](https://github.com/jahnaviaretty)
 
 
 
-⭐ If you find this project interesting, consider giving it a star!
+⭐ If you find this project interesting, consider giving it a star!s
+
+\## 📸 Application Screenshots
+
+
+
+\### Dashboard
+
+!\[Dashboard](screenshots/dashboard.png)
+
+
+
+\### PDF Upload
+
+!\[PDF Upload](screenshots/pdf-upload.png)
+
+
+
+\### Generated Answer
+
+!\[Generated Answer](screenshots/answer.png)
+
+
+
+\### Answer Evaluation
+
+!\[Evaluation](screenshots/answer2.png)
+
+
+
+\### Workflow History
+
+!\[Workflow History](screenshots/workflow.png)
 
 
 
