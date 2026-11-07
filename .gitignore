@@ -1,0 +1,29 @@
+
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+.env.*
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3/
+
+# Personal documents and uploaded files
+data/
+uploads/
+
+# Logs
+logs/
+*.log
+
+# IDE and operating system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

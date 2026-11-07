@@ -1,0 +1,6 @@
+streamlit
+langgraph
+pypdf
+python-dotenv
+scikit-learn
+requests
